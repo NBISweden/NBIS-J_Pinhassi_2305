@@ -1,0 +1,5 @@
+---
+title: "Project documentation"
+---
+
+This is the documentation for the project. This document and its child-pages are versioned tracked in a GitHub repository at [github.com/NBISweden/NBIS-J_Pinhassi_2305](https://github.com/NBISweden/NBIS-J_Pinhassi_2305).
