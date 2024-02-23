@@ -1,0 +1,31 @@
+---
+title: 2024-02-20
+date: 2024-02-20
+bibliography: bibliography.bib
+cite-method: natbib
+---
+
+# Group Meeting 2024-02-20
+
+## Participants
+
+- John Sundh
+- Jarone Pinhassi
+
+## Available data
+	
+- The team has several constructed MAGs (Metagenome Assembled Genomes) from different datasets (see e.g. [Alneberg et al 2020](https://www.nature.com/articles/s42003-020-0856-x)). Some of these have already been dereplicated but some may still need to be integrated into the full set of MAGs.
+- There’s also peptide spectra data that should be mapped to the MAG catalog, we should find out if there is expertise in NBIS on how to do this efficiently.
+- There is also data from viral metagenomics, sequenced from the fraction passing through the 0.22 um filter.
+
+## Strategy
+
+- Map metagenomes (MG), metatranscriptomes (MT) and metaproteomes (MP) to the MAG catalog, and potentially also the Baltic Sea gene catalog already constructed.
+- Nf-core pipelines of interest here are e.g. metatdenovo which is being developed by Daniel Lundin and others.
+- Since this is essentially an integrative project we should look into methods designed for the task.
+
+
+## Action points
+
+- [ ] Locate search paths to data on Uppmax and share these with NBIS (Jarone)
+- [ ] Consult NBIS internally to find out if anyone knows of good ways to map peptide spectra to a database of protein sequences

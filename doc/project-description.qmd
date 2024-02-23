@@ -1,0 +1,24 @@
+---
+title: Project description
+bibliography: "bibliography.bib"
+cite-method: natbib
+---
+
+# Scientific aims
+
+Marine phytoplankton carry out half of Earth’s photosynthesis, and around 50% of the organic carbon produced is channeled through bacteria. Bacteria play a key role in the turnover of dissolved organic carbon since they are the predominant organisms that assimilate or transform the large variety of dissolved carbon compounds in seawater. The overarching aim of this proposal is to provide novel insights into the regulation of metabolisms that govern the key role of bacteria in biogeochemical cycles, utilising a unique multi-omics dataset covering the prokaryote community in the Baltic Sea. Our multi-omics data on Baltic Sea prokaryotic metagenomes (metaG), metatranscriptomics (metaT), metaproteomics (metaP), and viral metagenomes (metaV) will allow addressing the following specific aims:
+
+- Is the relative abundance of individual functions in the prokaryotic community (across seasons and taxa) correlated at the level of DNA, RNA, and protein?
+- How well are changes in protein expression correlating with changes in RNA expression (between samples collected at different seasons)?
+- Do some taxa (MAGs from metaG) stand out by having substantial differences in their relative abundance of functions in the field samples of DNA, RNA, or protein?
+- Which MAGs do most actively express (metaT/metaP) functions of importance in carbon, nitrogen, and phosphorus cycling?
+- How much of the total cellular (i.e. captured on 0.22 μm filters) transcript and protein
+pools is of viral origin, and is there seasonality related to e.g. system productivity?
+
+This will provide novel insights into of the molecular mechanisms by which different bacteria regulate organic carbon turnover, ultimately helping improve models of global change.
+
+# Project description
+
+## Background
+
+Bacteria in the world’s oceans and coastal seas are key drivers of biogeochemical cycles of elements vital to life. Quantitatively, the role of bacteria is most notable in the global carbon cycle, influencing ecosystem responses to greenhouse gas emissions. The importance of bacteria is clear when considering that they process around half – an astounding ~70 million tons of carbon, daily – of the organic carbon produced through photosynthesis by marine phytoplankton (microscopic algae), which equals the photosynthesis of green plants on land. In parallel, bacteria regulate sizable fluxes of macro- and micronutrients. Importantly, bacteria in waters worldwide are governed by seasonality in growth conditions (e.g. temperature and nutrients). This points to the importance of determining how the metabolism of bacteria is regulated across seasons. Here, we reason that analysis of a unique time-series dataset from the Baltic Sea, which has allowed fruitful collaboration of the authors of this proposal over nearly a decade (e.g. [Hugerth et al 2015](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0834-7)), Muthusamy et al. 2017, Nilsson et al. 2019, Alneberg et al. 2020), has the potential to yield novel understanding of the molecular mechanisms that underlie the role of marine bacteria in biogeochemical cycling.

@@ -1,0 +1,26 @@
+---
+title: 2023-10-16
+date: 2023-10-16
+---
+
+# Group Meeting 2023-10-16
+
+- Group has been involved in development of [nf-core/metatdenovo](https://github.com/nf-core/metatdenovo)
+
+## Current status
+
+Proteomics data defines the time frame of the project. Data points from 2011 to 1.5 y ago. Quite a lot more data for metagenomics/metatranscriptomics used in other projects. Backbone is the metagenomics, refined with metatranscriptomics and proteomics as the "unknown variable". Very few papers on metaproteomics. No comparative analysis still of metagenome -> metatranscriptome -> metaproteome. 
+The viral metagenomes have been QCd but not used that much yet. Phage metagenomes are present, but fewer on metatranscriptomes. Very little on RNA-viruses. Very few papers looked at expression data of phage/viruses. What are the bacterial cells doing in terms of phage/virus expression. A few pipelines for annotating viral genes. No expression data for phage, AFAIK.
+Not as much work on coastal, variable high-diversity environments like the Baltic Sea as there is on open-ocean environments.
+
+For annotation, need a relatively small database for the proteomics.
+
+## Data availability
+
+Data is available on Uppmax and that is also where analyses are running. metaTdenovo pipeline not run on 2012-2014 yet.
+
+
+## Action points
+
+- [ ] Produce manageable database for preoteomics annotation (200-300 k ORFs/spectra). Use metatranscriptome to select interesting targets by looking at what is expressed.
+- [ ] Set up joint meeting for discussion about specific action points together with Anders Andersson and Daniel Lundin.
